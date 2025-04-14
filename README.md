@@ -24,9 +24,8 @@ This is a simple **To-Do List desktop application** built using Python and Tkint
 
 ## 📸 Screenshots
 
-> _(Add your app's screenshot here once you upload to GitHub!)_
+> ![image](https://github.com/user-attachments/assets/f0dec91f-cf87-43d7-8f2e-454bd633539f)
 
----
 
 ## 🧑‍💻 How to Run
 
